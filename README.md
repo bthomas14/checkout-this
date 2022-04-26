@@ -12,7 +12,7 @@ You will also need to run `npm install` in the project directory.
 ## To Run
 
 To start the mock server, run `json-server --watch db.json` in the project directory.
-Endpoints can be viewed by opening [http://localhost:3000](http://localhost:3000) in the browser.
+Endpoints can be viewed by opening [http://localhost:3004](http://localhost:3004) in the browser.
 
 To the start the client server, run `npm start` in the project directory.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
